@@ -1,5 +1,6 @@
 # US-Home-Prices-Factors
-roject Overview: This data science project focuses on predicting home prices using various economic and demographic factors. We will go through the key steps involved in this project.
+# Project Overview: 
+This data science project focuses on predicting home prices using various economic and demographic factors. Finding and icluding those factors using data from https://fred.stlouisfed.org/categories.
 
 Step 1: Data Preparation We start by importing the necessary libraries for data manipulation, such as pandas and numpy. The dataset is loaded into a DataFrame from a CSV file named "HOME LC project.csv." To ensure data quality, we remove rows with missing values
 
